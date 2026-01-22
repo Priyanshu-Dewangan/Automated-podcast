@@ -434,23 +434,27 @@ API at: http://localhost:8000/docs
 
 ### Tab 1: Upload & Process
 ```
-![alt text](<Screenshot 2026-01-22 at 18-35-13 Podcast Insights AI.png>)
+<img width="1543" height="895" alt="Screenshot 2026-01-22 at 18-35-13 Podcast Insights AI" src="https://github.com/user-attachments/assets/6389f906-e403-48c4-a081-f7a36259afd9" />
+
 ```
 
 ### Tab 2: Transcript & Summaries
 ```
-![alt text](<Screenshot 2026-01-22 at 18-35-40 Podcast Insights AI.png>)
+<img width="1534" height="862" alt="Screenshot 2026-01-22 at 18-35-40 Podcast Insights AI" src="https://github.com/user-attachments/assets/fdaab38e-24f9-4de2-a2e5-c2f28c9abb06" />
+
 ```
 
 ### Tab 3: Q&A Chat
 ```
-![alt text](<Screenshot 2026-01-22 at 18-36-21 Podcast Insights AI.png>)
+<img width="1210" height="766" alt="Screenshot 2026-01-22 at 18-36-21 Podcast Insights AI" src="https://github.com/user-attachments/assets/3104e4ec-716a-40d9-b7f6-f1b34ebc9809" />
 ```
+
 
 ### Tab 4: Query History
 ```
-![alt text](<Screenshot 2026-01-22 at 18-43-56 Podcast Insights AI.png>)
+<img width="1443" height="672" alt="Screenshot 2026-01-22 at 18-43-56 Podcast Insights AI" src="https://github.com/user-attachments/assets/b11bbd0a-1faa-4d4e-93db-ba6b7a383529" />
 ```
+
 
 ---
 
